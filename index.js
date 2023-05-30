@@ -1,5 +1,5 @@
-export default function solution(content){
+export default function solution(content) {
   // BEGIN
-
+  
   // END
 }
